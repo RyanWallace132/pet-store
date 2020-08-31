@@ -1,0 +1,56 @@
+[
+    {
+        "id": 0,
+        "name": "Great Dane Puppy" ,
+        "image":"https://photos.puppyspot.com/5/listing/629145/photo/5346241_large-resize.jpg" ,
+        "price":  400.0
+    },
+    {
+        "id": 1,
+        "name": "Russian Dwarf Hamster",
+        "image":"https://s7d2.scene7.com/is/image/PetSmart/5194338" ,
+        "price": 15.99
+    },
+    {
+        "id": 2,
+        "name": "Chinchilla",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/1/18/Chinchilla_lanigera_%28Wroclaw_zoo%29-2.JPG" ,
+        "price": 149.99
+    },
+    {
+        "id": 3,
+        "name": "Savannah Kitten",
+        "image": "https://i.pinimg.com/originals/cc/7f/38/cc7f383e18dda15f0be6de9e513a71e8.jpg",
+        "price": 159.99
+    },
+    {
+        "id": 4,
+        "name": "Chihuahua Puppy",
+        "image": "https://img.pixers.pics/pho_wat(s3:700/FO/21/12/36/46/700_FO21123646_b3af68ce6e3c9a58b0f9907bffbe65b5.jpg,467,700,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,247,650,jpg)/wall-murals-chihuahua-puppy-isolated-on-white.jpg.jpg",
+        "price": 300.99
+    },
+    {
+        "id": 5,
+        "name":"Gerbil" ,
+        "image": "https://cdn.shopify.com/s/files/1/0037/0268/5745/articles/home-yourpets-gerbil_1024x1024.jpg?v=1563991840",
+        "price": 59.99 
+    },
+    {
+        "id": 6,
+        "name":"German Shepherd Puppy" ,
+        "image": "https://usercontent1.hubstatic.com/14750314.jpg",
+        "price": 250.99
+    },
+    {
+        "id": 7,
+        "name":"Shiba Inu Puppy" ,
+        "image":"https://photos.puppyspot.com/9/listing/618089/photo/5196524_large-resize.jpg" ,
+        "price": 450.99
+    },
+    {
+        "id": 8,
+        "name": "Ball Python",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Ball_python_lucy.JPG",
+        "price": 99.99
+    }
+]
