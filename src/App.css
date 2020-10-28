@@ -1,7 +1,7 @@
 @import './reset.css';
 
 button {
-  cursor: pointer;
+  cursor: pointer;  
   color: #fff;
   background-color: #64a19d;
   border-color: transparent;
